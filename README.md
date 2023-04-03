@@ -16,7 +16,7 @@
 
 ## ✏️ About
 
-This project was developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click on [this link](https://github.com/jeadamek/explorer-rocketseat).
+This project was developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click [this link](https://github.com/jeadamek/explorer-rocketseat).
 
 In this challenge, it was requested to create a simple desktop landing page, applying the basic concepts of HTML and CSS, that's why this page isn't responsible.
 
