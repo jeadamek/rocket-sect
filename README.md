@@ -52,6 +52,7 @@ To access the project, click on the link below:
 ## 🎨 Layout
 
 To access the project's layout in Figma, click on the link below:
+
 🔗 [View on Figma](https://www.figma.com/file/w1gZ9yHgQ4hts1SA1rIBCc/Explorer-(Copy))
 
 
